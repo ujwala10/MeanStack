@@ -1,0 +1,224 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'grunt',
+1 verbose cli   '–save' ]
+2 info using npm@2.15.0
+3 info using node@v4.4.2
+4 verbose install initial load of /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/package.json
+5 warn package.json node-api@ No description
+6 warn package.json node-api@ No repository field.
+7 warn package.json node-api@ No README data
+8 warn package.json node-api@ No license field.
+9 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/abbrev/package.json
+10 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/ansi-regex/package.json
+11 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/ansi-styles/package.json
+12 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/argparse/package.json
+13 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/array-find-index/package.json
+14 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/async/package.json
+15 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/balanced-match/package.json
+16 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/batch/package.json
+17 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/body-parser/package.json
+18 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/brace-expansion/package.json
+19 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/buffer-crc32/package.json
+20 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/builtin-modules/package.json
+21 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/bytes/package.json
+22 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/camelcase/package.json
+23 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/camelcase-keys/package.json
+24 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/chalk/package.json
+25 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/coffee-script/package.json
+26 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/colors/package.json
+27 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/compressible/package.json
+28 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/concat-map/package.json
+29 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/connect/package.json
+30 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/cookie/package.json
+31 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/cookie-signature/package.json
+32 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/core-util-is/package.json
+33 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/dateformat/package.json
+34 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/debug/package.json
+35 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/decamelize/package.json
+36 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/dot/package.json
+37 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/error-ex/package.json
+38 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/escape-string-regexp/package.json
+39 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/esprima/package.json
+40 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/eventemitter2/package.json
+41 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/exit/package.json
+42 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/express/package.json
+43 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/find-up/package.json
+44 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/findup-sync/package.json
+45 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/fresh/package.json
+46 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/get-stdin/package.json
+47 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/getobject/package.json
+48 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/glob/package.json
+49 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/graceful-fs/package.json
+50 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/grunt/package.json
+51 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/grunt-known-options/package.json
+52 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/grunt-legacy-log/package.json
+53 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/grunt-legacy-log-utils/package.json
+54 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/grunt-legacy-util/package.json
+55 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/grunt-serve/package.json
+56 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/has-ansi/package.json
+57 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/hooker/package.json
+58 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/hosted-git-info/package.json
+59 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/iconv-lite/package.json
+60 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/indent-string/package.json
+61 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/inflight/package.json
+62 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/inherits/package.json
+63 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/is-absolute/package.json
+64 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/is-arrayish/package.json
+65 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/is-builtin-module/package.json
+66 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/is-finite/package.json
+67 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/is-relative/package.json
+68 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/is-utf8/package.json
+69 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/isarray/package.json
+70 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/isexe/package.json
+71 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/js-yaml/package.json
+72 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/load-json-file/package.json
+73 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/lodash/package.json
+74 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/loud-rejection/package.json
+75 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/map-obj/package.json
+76 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/meow/package.json
+77 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/methods/package.json
+78 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/mime/package.json
+79 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/minimatch/package.json
+80 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/minimist/package.json
+81 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/mongoose/package.json
+82 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/multiparty/package.json
+83 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/negotiator/package.json
+84 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/nopt/package.json
+85 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/normalize-package-data/package.json
+86 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/number-is-nan/package.json
+87 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/object-assign/package.json
+88 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/once/package.json
+89 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/parse-json/package.json
+90 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/path-exists/package.json
+91 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/path-is-absolute/package.json
+92 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/path-type/package.json
+93 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/pause/package.json
+94 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/pify/package.json
+95 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/pinkie/package.json
+96 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/pinkie-promise/package.json
+97 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/qs/package.json
+98 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/range-parser/package.json
+99 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/raw-body/package.json
+100 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/read-pkg/package.json
+101 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/read-pkg-up/package.json
+102 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/readable-stream/package.json
+103 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/redent/package.json
+104 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/repeating/package.json
+105 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/resolve/package.json
+106 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/rimraf/package.json
+107 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/semver/package.json
+108 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/send/package.json
+109 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/signal-exit/package.json
+110 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/spdx-correct/package.json
+111 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/spdx-exceptions/package.json
+112 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/spdx-expression-parse/package.json
+113 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/spdx-license-ids/package.json
+114 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/sprintf-js/package.json
+115 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/stream-counter/package.json
+116 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/string_decoder/package.json
+117 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/strip-ansi/package.json
+118 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/strip-bom/package.json
+119 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/strip-indent/package.json
+120 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/supports-color/package.json
+121 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/trim-newlines/package.json
+122 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/uid2/package.json
+123 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/underscore.string/package.json
+124 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/validate-npm-package-license/package.json
+125 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/which/package.json
+126 verbose installManyTop reading scoped package data from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/node_modules/wrappy/package.json
+127 info package.json batch@0.5.0 No repository field.
+128 info package.json batch@0.5.0 No license field.
+129 info package.json buffer-crc32@0.2.1 No license field.
+130 info package.json bytes@0.2.1 No repository field.
+131 info package.json bytes@0.2.1 No license field.
+132 info package.json cookie@0.1.0 No license field.
+133 info package.json connect@2.13.1 No license field.
+134 info package.json debug@0.8.1 No license field.
+135 info package.json cookie-signature@1.0.1 No repository field.
+136 info package.json cookie-signature@1.0.1 No license field.
+137 info package.json dot@1.0.3 No license field.
+138 info package.json exit@0.1.2 No license field.
+139 info package.json findup-sync@0.3.0 No license field.
+140 info package.json getobject@0.1.0 No license field.
+141 info package.json fresh@0.2.0 No license field.
+142 info package.json hooker@0.2.3 No license field.
+143 info package.json grunt-serve@0.1.6 No license field.
+144 info package.json is-absolute@0.1.7 license should be a valid SPDX license expression
+145 info package.json is-relative@0.1.3 No license field.
+146 info package.json mime@1.2.11 No license field.
+147 info package.json mongoose@3.6.20 No license field.
+148 info package.json pause@0.0.1 No repository field.
+149 info package.json pause@0.0.1 No license field.
+150 info package.json qs@0.6.6 No license field.
+151 info package.json range-parser@0.0.4 No repository field.
+152 info package.json range-parser@0.0.4 No license field.
+153 info package.json rimraf@2.2.8 license should be a valid SPDX license expression
+154 info package.json send@0.1.4 No license field.
+155 info package.json string_decoder@0.10.31 string_decoder is also the name of a node core module.
+156 info package.json stream-counter@0.2.0 license should be a valid SPDX license expression
+157 info package.json uid2@0.0.3 No repository field.
+158 info package.json uid2@0.0.3 No license field.
+159 verbose readDependencies loading dependencies from /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/package.json
+160 verbose install grunt is installed as 1.0.1
+161 silly cache add args [ 'grunt@^1.0.1', null ]
+162 verbose cache add spec grunt@^1.0.1
+163 silly cache add args [ '–save', null ]
+164 verbose cache add spec –save
+165 silly cache add parsed spec Result {
+165 silly cache add   raw: 'grunt@^1.0.1',
+165 silly cache add   scope: null,
+165 silly cache add   name: 'grunt',
+165 silly cache add   rawSpec: '^1.0.1',
+165 silly cache add   spec: '>=1.0.1 <2.0.0',
+165 silly cache add   type: 'range' }
+166 silly addNamed grunt@>=1.0.1 <2.0.0
+167 verbose addNamed ">=1.0.1 <2.0.0" is a valid semver range for grunt
+168 silly addNameRange { name: 'grunt', range: '>=1.0.1 <2.0.0', hasData: false }
+169 silly mapToRegistry name grunt
+170 silly mapToRegistry using default registry
+171 silly mapToRegistry registry https://registry.npmjs.org/
+172 silly mapToRegistry data Result {
+172 silly mapToRegistry   raw: 'grunt',
+172 silly mapToRegistry   scope: null,
+172 silly mapToRegistry   name: 'grunt',
+172 silly mapToRegistry   rawSpec: '',
+172 silly mapToRegistry   spec: 'latest',
+172 silly mapToRegistry   type: 'tag' }
+173 silly mapToRegistry uri https://registry.npmjs.org/grunt
+174 verbose addNameRange registry:https://registry.npmjs.org/grunt not in flight; fetching
+175 silly cache add parsed spec Result {
+175 silly cache add   raw: '–save',
+175 silly cache add   scope: null,
+175 silly cache add   name: null,
+175 silly cache add   rawSpec: '–save',
+175 silly cache add   spec: '/Users/Ujjuu/iOSLearning/Hackathon/Meanstack/–save',
+175 silly cache add   type: 'local' }
+176 error addLocal Could not install /Users/Ujjuu/iOSLearning/Hackathon/Meanstack/–save
+177 verbose request uri https://registry.npmjs.org/grunt
+178 verbose request no auth needed
+179 info attempt registry request try #1 at 4:13:10 PM
+180 verbose request id 9fd3c6ad8d9a7fa7
+181 verbose etag "5IEZA88NUMZ8BD4C5OQEE8Q55"
+182 http request GET https://registry.npmjs.org/grunt
+183 verbose stack TypeError: The header content contains invalid characters
+183 verbose stack     at ClientRequest.OutgoingMessage.setHeader (_http_outgoing.js:351:13)
+183 verbose stack     at new ClientRequest (_http_client.js:79:14)
+183 verbose stack     at Object.exports.request (http.js:31:10)
+183 verbose stack     at Object.socket.once.exports.request (https.js:182:15)
+183 verbose stack     at Request.start (/usr/local/lib/node_modules/npm/node_modules/request/request.js:747:30)
+183 verbose stack     at Request.end (/usr/local/lib/node_modules/npm/node_modules/request/request.js:1381:10)
+183 verbose stack     at end (/usr/local/lib/node_modules/npm/node_modules/request/request.js:575:14)
+183 verbose stack     at Immediate._onImmediate (/usr/local/lib/node_modules/npm/node_modules/request/request.js:589:7)
+183 verbose stack     at processImmediate [as _immediateCallback] (timers.js:383:17)
+184 verbose cwd /Users/Ujjuu/iOSLearning/Hackathon/Meanstack
+185 error Darwin 15.4.0
+186 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "grunt" "–save"
+187 error node v4.4.2
+188 error npm  v2.15.0
+189 error The header content contains invalid characters
+190 error If you need help, you may report this error at:
+190 error     <https://github.com/npm/npm/issues>
+191 verbose exit [ 1, true ]

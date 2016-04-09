@@ -3,17 +3,10 @@
         <h1>Benefits Summary </h1>
     </div>
 </div>
-<p>
-    <embed src="benefits.pdf" width="800px" height="2100px"></p>
-<p>
-1. Outpatient care—the kind you get without being admitted to a hospital <br>
-2. Trips to the emergency room<br>
-3. Treatment in the hospital for inpatient care<br>
-4. Care before and after your baby is born<br>
-5. Mental health and substance use disorder services: This includes behavioral health treatment, counseling, and psychotherapy<br>
-6. Your prescription drugs<br>
-7. Services and devices to help you recover if you are injured, or have a disability or chronic condition. This includes physical and occupational therapy, speech-language pathology, psychiatric rehabilitation, and more.<br>
-8. Your lab tests<br>
-9. Preventive services including counseling, screenings, and vaccines to keep you healthy and care for managing a chronic disease.<br>
-10. Pediatric services: This includes dental care and vision care for kids<br>
-</p>
+    <script type="text/javascript" src="pdfobject.js"></script>
+    <script type="text/javascript">
+      window.onload = function (){
+        var success = new PDFObject({ url: "benefits.pdf" }).embed();
+      };
+    </script>
+    <p> <a href="benefits.pdf">Benefits PDF</a></p>
